@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a7med-mahmoud/react-native-ml-kit.git",
-    "baseUrl": "https://github.com/a7med-mahmoud/react-native-ml-kit"
+    "url": "git+https://github.com/alekseypotapov-dev/react-native-ml-kit.git",
+    "baseUrl": "https://github.com/alekseypotapov-dev/react-native-ml-kit"
   },
   "keywords": [
     "react-native"
